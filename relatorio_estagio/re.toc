@@ -1,0 +1,85 @@
+\boolfalse {citerequest}\boolfalse {citetracker}\boolfalse {pagetracker}\boolfalse {backtracker}\relax 
+\defcounter {refsection}{0}\relax 
+\select@language {portuguese}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{Agradecimentos}{i}{chapter*.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{Sum\IeC {\'a}rio}{ii}{chapter*.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{Abstract}{iii}{chapter*.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {1}Introdu\IeC {\c c}\IeC {\~a}o}{1}{chapter.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {1.1}Descri\IeC {\c c}\IeC {\~a}o}{1}{section.1.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {1.2}Objetivo}{1}{section.1.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {1.3}Estrutura do Relat\IeC {\'o}rio}{1}{section.1.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {2}A Empresa}{2}{chapter.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.1}Carateriza\IeC {\c c}\IeC {\~a}o da Empresa}{2}{section.2.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.2}Objetivos da Empresa}{2}{section.2.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.3}Historial da Empresa}{3}{section.2.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.4}Estrutura Hier\IeC {\'a}rquica}{3}{section.2.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.5}\IeC {\'A}reas de Neg\IeC {\'o}cio}{3}{section.2.5}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.6}Log\IeC {\'o}tipo}{4}{section.2.6}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.7}Localiza\IeC {\c c}\IeC {\~a}o}{4}{section.2.7}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {3}O Projeto}{5}{chapter.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3.1}Descri\IeC {\c c}\IeC {\~a}o}{5}{section.3.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3.2}Objetivos}{5}{section.3.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3.3}Funcionalidades}{6}{section.3.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3.4}Ferramentas a utilizar}{6}{section.3.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3.5}Atividades a desenvolver}{9}{section.3.5}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{Atividades a desenvolver}{9}{section.3.5}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3.6}Calendariza\IeC {\c c}\IeC {\~a}o do Projeto}{9}{section.3.6}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3.7}Fases de Implementa\IeC {\c c}\IeC {\~a}o}{9}{section.3.7}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{Fases de Implementa\IeC {\c c}\IeC {\~a}o}{9}{section.3.7}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.7.1}A2a - Actors}{9}{subsection.3.7.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.7.2}A2b - User Stories}{9}{subsection.3.7.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.7.3}A3a - Interface do Website}{9}{subsection.3.7.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.7.4}A3b - Sitemap}{9}{subsection.3.7.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.7.5}A3c - Intera\IeC {\c c}\IeC {\~o}es}{10}{subsection.3.7.5}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.7.6}A4 - Requisitos do sistema}{10}{subsection.3.7.6}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.7.7}A5 - Modelo UML}{10}{subsection.3.7.7}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.7.8}Especifica\IeC {\c c}\IeC {\~a}o de Requisitos}{11}{subsection.3.7.8}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {4}Considera\IeC {\c c}\IeC {\~o}es Finais}{12}{chapter.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {4.1}Dificuldades}{12}{section.4.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.1.1}A2}{14}{subsection.4.1.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.1.2}A3A}{14}{subsection.4.1.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.1.3}A3B}{16}{subsection.4.1.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.1.4}A3C}{16}{subsection.4.1.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.1.5}A4}{21}{subsection.4.1.5}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.1.6}A5}{23}{subsection.4.1.6}
